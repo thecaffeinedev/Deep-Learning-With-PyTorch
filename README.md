@@ -17,7 +17,6 @@ This repository will help you get started with PyTorch Fundamentals .
 
 
 
-
 <br/>
 
 ## Dependencies
@@ -26,8 +25,29 @@ This repository will help you get started with PyTorch Fundamentals .
 
 ## Recommended Reading
 
+* [KDnuggets](https://www.kdnuggets.com/tag/pytorch)
+* [Algorithmia Blog](https://blog.algorithmia.com/exploring-the-deep-learning-framework-pytorch/)
+* [Analyticsvidhya Blog](https://www.analyticsvidhya.com/blog/2018/02/pytorch-tutorial/)
+* [Towards Data Science](https://towardsdatascience.com/getting-started-with-pytorch-part-1-understanding-how-automatic-differentiation-works-5008282073ec)
+
+## Some Video Tutorials
+
+* https://www.youtube.com/watch?v=SKq-pmkekTk&list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m
+* https://www.youtube.com/watch?v=_H3aw6wkCv0
+* https://www.youtube.com/watch?v=HNKlytVD1Zg
+
+## PyTorch Community
+
+* https://www.reddit.com/r/pytorch/
+* https://discuss.pytorch.org/
+* https://www.quora.com/topic/PyTorch
+* https://stackoverflow.com/questions/tagged/pytorch
+
+
+
 ## Important Links 
 * [For installation instructions](http://pytorch.org/) 
 * [Offical PyTorch tutorials ](http://pytorch.org/tutorials/ )
 * [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch)
 * [Practical PyTorch](https://github.com/spro/practical-pytorch)
+* [Awesome PyTorch List](https://github.com/bharathgs/Awesome-pytorch-list)

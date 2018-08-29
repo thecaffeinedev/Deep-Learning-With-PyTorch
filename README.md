@@ -51,3 +51,7 @@ This repository will help you get started with PyTorch Fundamentals .
 * [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch)
 * [Practical PyTorch](https://github.com/spro/practical-pytorch)
 * [Awesome PyTorch List](https://github.com/bharathgs/Awesome-pytorch-list)
+
+## Feedback
+
+If you have ideas or find mistakes [please leave a note.](https://github.com/TheCaffeineDev/Deep-Learning-With-PyTorch/issues/new)

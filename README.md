@@ -24,7 +24,10 @@ This repository will help you get started with PyTorch Fundamentals .
 * [Python 3.5+](https://www.continuum.io/downloads)
 * [PyTorch 0.4.0](http://pytorch.org/)
 
+## Recommended Reading
+
 ## Important Links 
-* [Offical PyTorch tutorials ](Offical PyTorch tutorials )
+* [For installation instructions](http://pytorch.org/) 
+* [Offical PyTorch tutorials ](http://pytorch.org/tutorials/ )
 * [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch)
 * [Practical PyTorch](https://github.com/spro/practical-pytorch)
